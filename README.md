@@ -8,13 +8,13 @@ pip install -r requirements.txt
 <div><h3>使用WebCam</h3></div>  
 
 ```
-cd webcam
+cd WebCam Detect
 python webcam.py
 ```
 
 <div><h3>辨識影片</h3></div>  
 
 ```
-cd video
+cd Video Detect
 python video.py
 ```
